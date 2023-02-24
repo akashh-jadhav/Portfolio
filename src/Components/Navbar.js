@@ -23,7 +23,7 @@ function Navbar() {
             <a href="#footer">Contact</a>
           </li>
           <li>
-            <button className='cta-outline'>Hire Me</button>
+            <button className='cta-outline'><a href='mailto:dr.er.akashjadhav1997@gmail.com'>Hire Me</a></button>
           </li>
         </ul>
       </div>

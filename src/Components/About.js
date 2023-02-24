@@ -15,8 +15,8 @@ function About() {
           <p>I describe myself as a passionate developer who loves to keep myself up to date with the technology trend
 worldwide.</p> 
           <div>
-            <button className="cta black-filled">Hire Me</button>
-            <button className="cta-outline black"><a href='https://drive.google.com/file/d/1mAYz8cZOBKMhL1_RYdE9qXw5Hm2GKt72/view?usp=share_link'>See My Resume</a></button>
+            <button className="cta black-filled"><a href='mailto:dr.er.akashjadhav1997@gmail.com' color='black'>Hire Me</a></button>
+            <button className="cta black-filled"><a href='https://drive.google.com/file/d/1mAYz8cZOBKMhL1_RYdE9qXw5Hm2GKt72/view?usp=share_link'>See My Resume</a></button>
           </div>
         </div>
 
