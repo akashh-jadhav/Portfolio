@@ -16,7 +16,7 @@ function About() {
 worldwide.</p> 
           <div>
             <button className="cta black-filled"><a href='mailto:dr.er.akashjadhav1997@gmail.com' color='black'>Hire Me</a></button>
-            <button className="cta black-filled"><a href='https://drive.google.com/file/d/1mAYz8cZOBKMhL1_RYdE9qXw5Hm2GKt72/view?usp=share_link'>See My Resume</a></button>
+            <button className="cta black-filled"><a href='https://drive.google.com/file/d/1JlGH30wpXFool8WoY2e_mif-tTmJpYiU/view?usp=share_link'>See My Resume</a></button>
           </div>
         </div>
 
